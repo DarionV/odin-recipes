@@ -1,0 +1,24 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #e0e8f2;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h3, a:link, a:visited {
+    color: #bd6e9b;
+}
+
+.title {
+    font-size: 20px;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 0, 170);
+}
